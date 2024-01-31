@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EnesBrtDenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=EnesBrt)](https://git.io/streak-stats)
