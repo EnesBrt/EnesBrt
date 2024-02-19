@@ -6,8 +6,8 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EnesBrt&theme=python-dark&hide_border=true)](https://git.io/streak-stats)
+<div align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=EnesBrt&theme=python-dark&hide_border=true)](https://git.io/streak-stats)
 
 ![EnesBrt's Stats](https://github-readme-stats.vercel.app/api?username=EnesBrt&theme=blue-green&show_icons=true&hide_border=true&count_private=true)
 
-![EnesBrt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesBrt&theme=blue-green&show_icons=true&hide_border=true&layout=compact)
+![EnesBrt's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesBrt&theme=blue-green&show_icons=true&hide_border=true&layout=compact) <div/>
